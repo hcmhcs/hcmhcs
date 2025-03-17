@@ -19,10 +19,72 @@
 ###
 
 - [농행동행 소개 및 Repo](https://github.com/NonghaengDonghaeng/Nonghaeng_BE)
-  - [서비스링크](https://nonghaeng.site)
 - [도서관 열람실 체크인 시스템 소개 및 Repo](https://github.com/HK-DUO/seating-system)
 - [골라줘 소개 및 Repo](https://github.com/paran-hamer/Gollajo_BE)
-  - [서비스링크](https://gollajo.site)
+
+<table>
+<tr>
+<td align="center">농행동행</td>
+<td align="center">도서관 열람실 체크인 시스템</td>
+<td align="center">골라줘</td>
+
+</tr>
+  <tr>
+    <td align="center" width="400px">
+      <img src="https://github.com/NonghaengDonghaeng/Nonghaeng_BE/assets/49056953/a57a6bb6-b973-4084-bb55-7de272da5dc2" alt="농행동행 로고" />
+    </td>
+    <td align="center" width="400px">
+      <img src="https://github.com/user-attachments/assets/a2973b1e-1eb6-4170-8a83-335467e1575d" alt="열람실 체크인 시스템 이미지" />
+    </td>
+      <td align="center"  width="400px">
+      <img src="https://github.com/user-attachments/assets/2cf4918e-ccec-4e2f-9d5c-d0c64530ce6c" alt="골라줘 이미지" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://nonghaeng.site" target="_blank">
+        서비스 링크
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/hcmhcs" target="_blank">
+       X
+      </a>
+    </td>
+    <td align="center">
+        <a href="https://gollajo.site">서비스 링크(모바일로 접속 권장)</a>
+    </td>
+  </tr>
+<tr>
+<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">Repository</a></td>
+<td align="center"> <a href="https://github.com/HK-DUO/seating-system">Repository</a></td>
+<td align="center"> <a href="https://github.com/paran-hamer/Gollajo_BE">Repository</a></td>
+</tr>
+<tr>
+<td align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+</td>
+<td align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</td>
+</tr>
+</table>
 
 ###
 
