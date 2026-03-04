@@ -40,13 +40,13 @@ Screen translation app for macOS — select any area, get instant translation
 <td align="center" width="300px">
   <img src="https://filient.ai/images/filient-logo.png" width="48" alt="Filient" /><br>
   <strong>Filient</strong><br>
-  Team service platform<br>
+  AI-driven file organization for macOS<br>
   <img src="https://img.shields.io/badge/In_Progress-3b82f6?style=flat-square" alt="in progress" />
 </td>
 <td align="center" width="300px">
   <img src="https://www.cheftories.com/logo.png" width="48" alt="ChefTory" /><br>
   <strong>ChefTory</strong><br>
-  AI-powered recipe platform<br>
+  Transforming cooking videos into smart recipes with AI<br>
   <img src="https://img.shields.io/badge/In_Progress-3b82f6?style=flat-square" alt="in progress" />
 </td>
 </tr>
